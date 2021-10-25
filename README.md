@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://github.com/adrielleyax/yaxin_loh/blob/a9d4a692c14b70c00d0bfc60666b6d77eccba7ab/pictures/photo_2021-10-22%2017.19.15.jpeg)
 
 <!-- Add your details -->
 
